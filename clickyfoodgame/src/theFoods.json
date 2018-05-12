@@ -1,0 +1,49 @@
+[
+    {
+      "key": 1,
+      "name": "burgerking",
+      "selected": false
+    },
+    {
+      "key": 2,
+      "name": "dominos",
+      "selected": false
+    },
+    {
+      "key": 3,
+      "name": "fiveguys",
+      "selected": false
+    },
+    {
+      "key": 4,
+      "name": "innout",
+      "selected": false
+    },
+    {
+      "key": 5,
+      "name": "jerseymikes",
+      "selected": false
+    },
+    {
+      "key": 6,
+      "name": "mcdonalds",
+      "selected": false
+    },
+    {
+      "key": 7,
+      "name":"pandaexpress",
+      "selected": false
+    },
+    {
+      "key": 8,
+      "name": "papajohns",
+      "selected": false
+    },
+    {
+  
+      "key": 9,
+      "name": "walmart",
+      "selected": false
+    }
+  
+  ]
